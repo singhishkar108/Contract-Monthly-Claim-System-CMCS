@@ -313,8 +313,8 @@ dotnet run
 | :--------------------------------: | :--------------------------------------------: |
 |           **Home Page**            |        ![HomePage](Assets/HomePage.png)        |
 |             **Login**              |           ![Login](Assets/Login.png)           |
-|       **Sumbmitting Claim**        | ![SubmitClaimsOne](Assets/SubmitClaimsOne.png) |
-| **Sumbmitting Claim Continued...** | ![SubmitClaimsTwo](Assets/SubmitClaimsTwo.png) |
+|       **Submitting Claims**        | ![SubmitClaimsOne](Assets/SubmitClaimsOne.png) |
+| **Submitting Claims Continued...** | ![SubmitClaimsTwo](Assets/SubmitClaimsTwo.png) |
 |        **Summary Of Claim**        |      ![SummaryOne](Assets/SummaryOne.png)      |
 | **Summary Of Claim Continued...**  |      ![SummaryTwo](Assets/SummaryTwo.png)      |
 |         **Claim History**          |    ![ClaimHistory](Assets/ClaimHistory.png)    |
